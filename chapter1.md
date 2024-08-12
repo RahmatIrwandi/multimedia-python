@@ -28,6 +28,7 @@ Berikut adalah beberapa pustaka yang sering digunakan dalam pemrograman multimed
 - **🎵 Pydub:** Digunakan untuk pemrosesan audio.
 - **🖥 Tkinter:** Digunakan untuk membuat antarmuka pengguna (GUI).
 
+
 ### ⚙️ Instalasi dan Setup
 
 Untuk menginstal pustaka-pustaka tersebut, kita dapat menggunakan `pip`. Berikut adalah contoh cara instalasi masing-masing pustaka:
